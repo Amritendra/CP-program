@@ -1,0 +1,201 @@
+Patient ID,Year of Birth,Age at Diagnosis (months),Gender,Gestational Age (weeks),Birth Weight (grams),APGAR Score (1 min),APGAR Score (5 min),Presence of Risk Factors,Motor Development Delay,MRI Findings,Early Intervention Started,Severity of CP,Therapy Response
+CP1000,2020,31,Female,39,3378,7,3,Hypoxia,No,Normal,Yes,Moderate,No Change
+CP1001,2014,2,Female,36,2646,6,6,Infections,No,Normal,No,Severe,No Change
+CP1002,2016,17,Male,36,2428,8,2,None,Yes,Abnormal,Yes,Mild,Improved
+CP1003,2017,34,Male,40,2017,6,5,None,Yes,Abnormal,No,Severe,No Change
+CP1004,2017,13,Male,31,875,8,2,Infections,No,Normal,No,Severe,Worsened
+CP1005,2015,8,Male,24,3788,2,8,Hypoxia,Yes,Normal,No,Moderate,Worsened
+CP1006,2019,28,Male,33,3950,4,7,Hypoxia,Yes,Normal,No,Moderate,No Change
+CP1007,2015,34,Female,24,1715,6,9,Hypoxia,No,Normal,Yes,Moderate,No Change
+CP1008,2017,11,Male,27,3047,9,4,Hypoxia,Yes,Abnormal,No,Mild,No Change
+CP1009,2015,25,Male,34,2302,2,2,None,Yes,Normal,No,Moderate,No Change
+CP1010,2021,4,Female,34,3474,3,8,Premature Birth,No,Abnormal,Yes,Mild,No Change
+CP1011,2014,23,Male,36,595,3,8,Premature Birth,Yes,Abnormal,No,Severe,Improved
+CP1012,2021,2,Male,31,2203,2,1,Hypoxia,No,Abnormal,No,Severe,No Change
+CP1013,2018,15,Male,38,3942,8,8,Premature Birth,No,Normal,Yes,Moderate,No Change
+CP1014,2021,32,Male,24,3446,2,6,Infections,Yes,Normal,Yes,Severe,No Change
+CP1015,2013,14,Female,37,3175,5,3,Premature Birth,No,Abnormal,No,Severe,Improved
+CP1016,2015,23,Male,29,3936,5,5,Hypoxia,No,Abnormal,No,Severe,Improved
+CP1017,2021,13,Male,34,1034,5,5,Infections,Yes,Normal,No,Mild,No Change
+CP1018,2018,26,Female,24,512,3,5,Infections,Yes,Normal,Yes,Severe,Worsened
+CP1019,2019,33,Female,28,2132,8,9,Hypoxia,No,Normal,Yes,Mild,No Change
+CP1020,2018,9,Female,38,1470,5,5,Hypoxia,No,Normal,Yes,Severe,Improved
+CP1021,2013,14,Female,34,3405,7,5,None,No,Abnormal,No,Mild,Worsened
+CP1022,2016,8,Female,26,2588,6,5,None,Yes,Normal,Yes,Moderate,Improved
+CP1023,2019,6,Male,24,3374,5,9,Hypoxia,No,Normal,Yes,Severe,Worsened
+CP1024,2014,24,Male,33,3993,9,2,Infections,Yes,Normal,No,Severe,Worsened
+CP1025,2019,30,Male,35,1104,3,3,Infections,Yes,Normal,No,Mild,No Change
+CP1026,2014,35,Male,28,2326,9,9,Infections,No,Abnormal,No,Mild,Worsened
+CP1027,2013,18,Female,25,2338,9,7,Infections,No,Abnormal,Yes,Severe,No Change
+CP1028,2021,34,Female,38,2540,9,8,Hypoxia,No,Normal,Yes,Moderate,No Change
+CP1029,2021,31,Male,34,811,3,1,Hypoxia,Yes,Normal,No,Moderate,Improved
+CP1030,2013,8,Female,34,3808,1,6,Premature Birth,Yes,Abnormal,Yes,Severe,No Change
+CP1031,2021,6,Male,40,2723,1,4,Infections,Yes,Normal,No,Moderate,Worsened
+CP1032,2016,26,Female,28,2004,8,1,Infections,No,Normal,Yes,Severe,Improved
+CP1033,2013,22,Male,26,628,8,2,Premature Birth,Yes,Abnormal,No,Moderate,Improved
+CP1034,2021,17,Male,33,3186,9,7,None,Yes,Normal,Yes,Moderate,Worsened
+CP1035,2017,3,Male,36,1835,1,9,Infections,No,Abnormal,Yes,Severe,Improved
+CP1036,2021,10,Female,34,2696,4,7,Premature Birth,Yes,Normal,No,Moderate,No Change
+CP1037,2014,18,Male,33,3095,7,1,None,No,Abnormal,No,Moderate,No Change
+CP1038,2016,6,Female,29,846,5,7,Infections,No,Abnormal,Yes,Mild,No Change
+CP1039,2019,4,Female,38,1008,7,9,Premature Birth,Yes,Normal,No,Moderate,Improved
+CP1040,2014,28,Female,39,3918,8,6,Premature Birth,Yes,Abnormal,Yes,Moderate,Improved
+CP1041,2014,12,Male,39,1916,6,4,None,Yes,Abnormal,No,Severe,Worsened
+CP1042,2020,32,Male,30,1589,5,7,Infections,Yes,Abnormal,No,Severe,Improved
+CP1043,2013,16,Male,34,3815,2,1,Hypoxia,Yes,Normal,No,Mild,No Change
+CP1044,2013,6,Male,38,2699,3,5,None,No,Normal,No,Moderate,No Change
+CP1045,2020,18,Female,37,1733,1,3,Premature Birth,No,Abnormal,No,Severe,No Change
+CP1046,2020,30,Male,29,1806,4,1,Hypoxia,Yes,Abnormal,Yes,Severe,Worsened
+CP1047,2014,21,Female,37,2148,8,2,Hypoxia,No,Normal,No,Moderate,Improved
+CP1048,2015,7,Female,31,1052,7,1,Hypoxia,No,Abnormal,No,Severe,Worsened
+CP1049,2014,16,Female,37,1944,9,4,Hypoxia,No,Abnormal,No,Moderate,No Change
+CP1050,2014,24,Female,34,1001,5,9,Hypoxia,Yes,Normal,Yes,Severe,Worsened
+CP1051,2015,6,Male,37,1145,3,8,Premature Birth,Yes,Normal,No,Severe,Improved
+CP1052,2019,25,Male,35,788,4,5,Infections,No,Normal,Yes,Moderate,Improved
+CP1053,2021,33,Female,35,3571,5,6,Hypoxia,Yes,Normal,No,Severe,Worsened
+CP1054,2013,23,Male,36,1415,7,1,Hypoxia,No,Abnormal,Yes,Moderate,No Change
+CP1055,2013,33,Female,33,2361,6,2,Infections,No,Normal,Yes,Severe,Improved
+CP1056,2015,30,Male,40,1575,5,3,Hypoxia,No,Normal,No,Mild,No Change
+CP1057,2020,23,Male,33,1997,3,7,Hypoxia,No,Normal,Yes,Mild,Worsened
+CP1058,2015,30,Male,32,1312,6,7,None,No,Abnormal,Yes,Mild,Worsened
+CP1059,2013,26,Male,38,2485,5,8,None,Yes,Abnormal,No,Moderate,No Change
+CP1060,2021,14,Female,31,1339,2,3,Premature Birth,No,Abnormal,Yes,Severe,No Change
+CP1061,2020,16,Male,29,1515,1,5,None,Yes,Normal,No,Severe,Worsened
+CP1062,2013,33,Female,35,974,9,1,None,No,Normal,Yes,Moderate,No Change
+CP1063,2014,5,Female,27,2091,9,4,Infections,Yes,Abnormal,No,Severe,Improved
+CP1064,2014,34,Female,33,3196,4,7,Hypoxia,Yes,Normal,Yes,Mild,No Change
+CP1065,2021,10,Female,31,2064,4,1,None,Yes,Normal,Yes,Severe,Improved
+CP1066,2018,26,Female,34,2468,2,7,Premature Birth,No,Normal,Yes,Mild,No Change
+CP1067,2020,4,Female,31,911,3,1,Hypoxia,No,Abnormal,Yes,Mild,Improved
+CP1068,2017,27,Male,32,3466,1,6,Hypoxia,No,Abnormal,Yes,Mild,No Change
+CP1069,2018,23,Male,31,1952,2,3,Infections,Yes,Abnormal,No,Moderate,Worsened
+CP1070,2022,4,Male,24,604,2,3,None,Yes,Abnormal,Yes,Mild,Improved
+CP1071,2021,4,Male,32,1015,6,9,Hypoxia,Yes,Normal,Yes,Mild,Worsened
+CP1072,2014,18,Male,33,3010,9,1,Hypoxia,No,Normal,No,Moderate,Worsened
+CP1073,2021,17,Female,36,3221,4,6,Infections,Yes,Normal,No,Mild,Improved
+CP1074,2013,4,Male,29,1465,1,7,None,Yes,Abnormal,Yes,Mild,Worsened
+CP1075,2016,7,Female,26,598,9,3,Premature Birth,No,Normal,No,Mild,Improved
+CP1076,2016,33,Female,38,2590,7,5,Infections,Yes,Normal,Yes,Mild,No Change
+CP1077,2018,7,Female,35,3099,9,3,Infections,Yes,Abnormal,No,Moderate,Worsened
+CP1078,2021,17,Male,38,2863,5,1,Hypoxia,No,Normal,No,Mild,Worsened
+CP1079,2016,23,Male,28,800,1,6,Premature Birth,No,Normal,No,Moderate,No Change
+CP1080,2015,13,Female,35,2297,4,3,Premature Birth,No,Abnormal,No,Mild,No Change
+CP1081,2022,17,Female,24,1109,2,6,None,No,Normal,Yes,Moderate,Improved
+CP1082,2017,8,Male,33,2547,9,5,None,No,Normal,Yes,Mild,No Change
+CP1083,2018,27,Male,30,1405,5,9,Premature Birth,Yes,Normal,Yes,Moderate,Improved
+CP1084,2015,15,Male,26,2025,4,3,Hypoxia,Yes,Normal,Yes,Moderate,Improved
+CP1085,2013,23,Male,28,791,6,3,Premature Birth,No,Abnormal,No,Mild,Worsened
+CP1086,2013,10,Male,31,1495,5,3,Infections,No,Normal,Yes,Mild,Improved
+CP1087,2017,32,Male,30,1823,3,8,Infections,Yes,Normal,Yes,Moderate,Worsened
+CP1088,2018,28,Female,26,794,6,8,Premature Birth,No,Normal,No,Moderate,No Change
+CP1089,2013,11,Male,32,1283,3,3,Hypoxia,Yes,Normal,Yes,Severe,No Change
+CP1090,2018,33,Female,28,1027,6,5,Infections,Yes,Normal,No,Moderate,Worsened
+CP1091,2018,7,Male,38,2209,3,1,None,No,Normal,No,Severe,No Change
+CP1092,2020,21,Female,34,3477,9,9,Hypoxia,No,Normal,No,Severe,Worsened
+CP1093,2016,29,Male,33,3588,1,3,None,No,Normal,No,Moderate,No Change
+CP1094,2017,10,Female,26,2002,7,9,Premature Birth,Yes,Normal,No,Severe,Worsened
+CP1095,2015,26,Female,37,965,1,2,Premature Birth,No,Abnormal,Yes,Severe,No Change
+CP1096,2013,14,Female,35,2716,8,3,Premature Birth,Yes,Normal,Yes,Mild,No Change
+CP1097,2015,12,Male,35,3154,5,9,Premature Birth,Yes,Normal,Yes,Severe,No Change
+CP1098,2013,8,Female,24,3495,9,5,Infections,Yes,Abnormal,Yes,Moderate,Worsened
+CP1099,2018,25,Male,39,2042,2,4,Infections,No,Abnormal,No,Severe,No Change
+CP1100,2020,13,Female,27,3262,5,6,Premature Birth,No,Abnormal,Yes,Mild,No Change
+CP1101,2022,6,Female,25,881,9,5,Infections,Yes,Normal,No,Mild,Improved
+CP1102,2020,27,Male,25,1910,6,5,Premature Birth,Yes,Normal,Yes,Moderate,Improved
+CP1103,2016,10,Female,34,2192,8,8,Infections,No,Abnormal,No,Severe,Worsened
+CP1104,2015,25,Female,39,2545,7,5,Infections,Yes,Abnormal,No,Moderate,Worsened
+CP1105,2018,2,Male,29,1057,9,3,None,No,Normal,No,Severe,Worsened
+CP1106,2020,33,Female,29,3999,8,1,None,No,Abnormal,Yes,Moderate,No Change
+CP1107,2019,34,Female,25,3560,7,2,Premature Birth,No,Normal,Yes,Severe,No Change
+CP1108,2022,9,Female,26,1342,2,4,None,Yes,Normal,No,Severe,No Change
+CP1109,2013,27,Male,29,1744,6,2,Infections,Yes,Abnormal,No,Mild,Improved
+CP1110,2015,31,Female,40,3566,8,7,Premature Birth,No,Abnormal,Yes,Severe,Improved
+CP1111,2019,14,Female,38,2736,9,9,Hypoxia,No,Abnormal,Yes,Moderate,Worsened
+CP1112,2014,6,Male,31,2349,5,4,Premature Birth,Yes,Normal,Yes,Moderate,Improved
+CP1113,2013,27,Female,24,3384,7,6,None,No,Normal,Yes,Moderate,Worsened
+CP1114,2018,11,Male,31,2071,4,7,Infections,No,Normal,No,Moderate,Worsened
+CP1115,2022,3,Female,24,2976,4,1,None,Yes,Abnormal,Yes,Mild,No Change
+CP1116,2013,21,Female,29,2259,1,1,Infections,No,Normal,Yes,Mild,No Change
+CP1117,2019,12,Male,25,2885,6,7,Infections,No,Abnormal,Yes,Severe,Improved
+CP1118,2019,24,Female,24,2456,5,1,Premature Birth,No,Normal,Yes,Severe,Worsened
+CP1119,2014,6,Female,31,2296,8,4,Infections,No,Abnormal,Yes,Moderate,Worsened
+CP1120,2013,3,Male,29,1153,9,6,Hypoxia,No,Normal,Yes,Mild,Improved
+CP1121,2018,33,Male,27,3283,4,1,None,Yes,Normal,No,Mild,Worsened
+CP1122,2017,15,Female,39,1242,3,2,Hypoxia,No,Normal,No,Mild,Worsened
+CP1123,2013,19,Female,28,2673,3,5,None,Yes,Abnormal,No,Mild,Worsened
+CP1124,2020,6,Male,26,3965,8,8,Infections,Yes,Abnormal,No,Mild,Improved
+CP1125,2014,33,Female,31,2460,8,7,Infections,No,Normal,Yes,Severe,Improved
+CP1126,2018,27,Male,29,3477,5,8,Infections,Yes,Abnormal,Yes,Mild,Improved
+CP1127,2021,21,Male,32,3246,5,5,Hypoxia,Yes,Abnormal,No,Severe,No Change
+CP1128,2015,10,Male,24,981,4,4,Hypoxia,Yes,Abnormal,No,Moderate,No Change
+CP1129,2018,20,Male,39,1604,9,5,Infections,Yes,Normal,Yes,Moderate,No Change
+CP1130,2020,21,Female,38,1746,2,3,Infections,Yes,Normal,No,Severe,No Change
+CP1131,2018,21,Male,30,1036,3,5,None,No,Normal,No,Mild,Improved
+CP1132,2013,9,Male,37,505,3,6,None,No,Abnormal,No,Mild,Improved
+CP1133,2018,28,Female,38,1046,8,5,Infections,No,Normal,Yes,Severe,Worsened
+CP1134,2021,28,Female,37,2911,4,6,Premature Birth,No,Abnormal,No,Severe,No Change
+CP1135,2018,32,Male,27,507,5,1,Infections,No,Abnormal,Yes,Moderate,No Change
+CP1136,2021,26,Female,30,2364,5,7,None,Yes,Abnormal,No,Mild,No Change
+CP1137,2015,28,Female,35,3691,3,5,Infections,No,Abnormal,No,Mild,No Change
+CP1138,2016,33,Male,31,2848,7,6,Infections,Yes,Normal,No,Moderate,Worsened
+CP1139,2021,30,Male,27,3178,2,3,None,Yes,Normal,No,Mild,Worsened
+CP1140,2015,3,Male,29,2791,8,7,Infections,No,Normal,Yes,Moderate,No Change
+CP1141,2018,4,Male,37,667,6,4,None,Yes,Normal,Yes,Mild,Improved
+CP1142,2021,27,Male,34,2839,7,3,Infections,Yes,Normal,Yes,Moderate,Worsened
+CP1143,2022,9,Male,36,1162,7,7,Infections,Yes,Abnormal,No,Severe,No Change
+CP1144,2015,14,Female,24,3494,5,3,None,Yes,Normal,No,Mild,Worsened
+CP1145,2014,24,Female,36,784,2,6,Premature Birth,Yes,Normal,No,Severe,Improved
+CP1146,2015,23,Female,40,3424,8,6,Infections,Yes,Normal,No,Severe,No Change
+CP1147,2013,23,Male,29,731,4,2,Hypoxia,No,Normal,No,Mild,No Change
+CP1148,2018,33,Male,40,2567,1,6,Premature Birth,Yes,Normal,Yes,Severe,Worsened
+CP1149,2021,18,Female,25,2598,1,3,Premature Birth,No,Abnormal,Yes,Severe,Improved
+CP1150,2022,34,Male,34,1799,9,4,Infections,Yes,Normal,No,Severe,Improved
+CP1151,2019,3,Female,35,1769,5,7,Infections,Yes,Normal,Yes,Moderate,Worsened
+CP1152,2017,22,Male,38,1225,6,7,Infections,Yes,Abnormal,No,Mild,No Change
+CP1153,2013,21,Female,38,2406,6,5,Premature Birth,Yes,Normal,Yes,Severe,Improved
+CP1154,2019,21,Female,32,1584,9,6,None,Yes,Abnormal,No,Mild,No Change
+CP1155,2014,9,Male,38,3299,2,5,None,Yes,Normal,Yes,Moderate,Worsened
+CP1156,2018,8,Male,29,1180,4,5,None,Yes,Normal,Yes,Severe,Worsened
+CP1157,2021,14,Female,26,698,7,8,Hypoxia,Yes,Abnormal,Yes,Severe,Improved
+CP1158,2013,22,Female,29,839,9,8,Infections,Yes,Abnormal,Yes,Mild,Worsened
+CP1159,2018,30,Female,30,2980,5,4,None,No,Abnormal,No,Moderate,Improved
+CP1160,2019,33,Male,31,1903,8,6,None,Yes,Normal,Yes,Severe,Worsened
+CP1161,2015,14,Male,36,3823,9,7,Premature Birth,No,Abnormal,No,Mild,Worsened
+CP1162,2017,14,Female,29,3165,8,7,Premature Birth,Yes,Normal,Yes,Mild,Worsened
+CP1163,2017,11,Male,30,2616,5,3,Infections,Yes,Normal,No,Mild,Worsened
+CP1164,2020,21,Female,33,841,7,2,Premature Birth,Yes,Normal,Yes,Mild,No Change
+CP1165,2015,2,Female,31,689,4,7,Hypoxia,Yes,Abnormal,No,Severe,No Change
+CP1166,2021,18,Male,33,2483,5,1,Infections,No,Abnormal,No,Moderate,Worsened
+CP1167,2017,26,Male,24,3247,1,5,Infections,No,Abnormal,No,Moderate,No Change
+CP1168,2015,23,Female,29,993,4,9,Premature Birth,Yes,Normal,Yes,Moderate,Worsened
+CP1169,2020,22,Male,28,899,5,1,Hypoxia,No,Normal,Yes,Mild,Worsened
+CP1170,2020,11,Male,36,903,8,6,None,Yes,Abnormal,No,Severe,Improved
+CP1171,2020,35,Female,40,3032,5,7,Infections,No,Abnormal,No,Mild,Worsened
+CP1172,2018,11,Male,27,2933,5,1,None,Yes,Normal,Yes,Severe,Improved
+CP1173,2016,26,Female,28,2581,8,2,Hypoxia,No,Normal,No,Moderate,No Change
+CP1174,2017,34,Male,26,3665,6,5,Infections,No,Normal,No,Severe,Worsened
+CP1175,2017,30,Male,35,2135,8,8,None,No,Abnormal,Yes,Moderate,No Change
+CP1176,2016,4,Female,30,2177,4,9,None,No,Normal,No,Mild,No Change
+CP1177,2013,33,Female,35,659,6,3,Hypoxia,Yes,Normal,No,Moderate,Worsened
+CP1178,2013,32,Female,34,3759,7,1,Premature Birth,Yes,Abnormal,Yes,Mild,No Change
+CP1179,2020,20,Male,32,1734,6,8,Premature Birth,No,Normal,Yes,Severe,No Change
+CP1180,2016,31,Female,31,1092,9,6,Premature Birth,Yes,Normal,No,Mild,Improved
+CP1181,2017,3,Male,35,2015,8,1,Premature Birth,Yes,Normal,Yes,Severe,Worsened
+CP1182,2019,16,Female,32,668,8,7,Infections,No,Normal,No,Moderate,Worsened
+CP1183,2016,29,Female,36,1223,2,7,Infections,Yes,Normal,Yes,Mild,No Change
+CP1184,2017,19,Male,36,2091,9,7,Premature Birth,Yes,Normal,No,Severe,Improved
+CP1185,2019,29,Female,37,683,7,5,Hypoxia,No,Normal,Yes,Severe,Worsened
+CP1186,2017,19,Male,33,2983,6,2,Hypoxia,Yes,Abnormal,Yes,Mild,No Change
+CP1187,2014,5,Female,34,2252,3,6,Infections,No,Normal,No,Mild,No Change
+CP1188,2016,16,Male,27,1332,3,1,None,Yes,Normal,Yes,Moderate,No Change
+CP1189,2019,15,Female,25,3877,5,3,Hypoxia,Yes,Normal,No,Mild,Worsened
+CP1190,2020,3,Female,35,3595,5,3,Infections,No,Normal,No,Moderate,Improved
+CP1191,2018,16,Male,39,1867,2,3,Premature Birth,Yes,Normal,No,Mild,Improved
+CP1192,2019,16,Female,40,764,5,1,Infections,No,Normal,Yes,Mild,Improved
+CP1193,2013,16,Male,39,2353,8,5,None,No,Normal,Yes,Moderate,Worsened
+CP1194,2020,30,Female,31,2685,2,6,Infections,No,Normal,Yes,Severe,No Change
+CP1195,2015,5,Male,30,3263,8,5,Infections,No,Normal,No,Severe,Worsened
+CP1196,2020,20,Male,38,3416,7,6,Infections,No,Abnormal,Yes,Severe,Worsened
+CP1197,2019,25,Female,30,2302,3,7,Hypoxia,Yes,Abnormal,No,Moderate,No Change
+CP1198,2013,18,Female,34,1604,2,1,None,Yes,Normal,No,Mild,No Change
+CP1199,2016,17,Male,29,1105,8,7,Premature Birth,No,Normal,No,Severe,No Change
